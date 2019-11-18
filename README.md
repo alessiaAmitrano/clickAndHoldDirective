@@ -1,5 +1,7 @@
 # Ngdemodirect
 
+A simple implementation of a custom Angular Directiv with Inputs and Outputs to control the mouseDown and mouseUp events.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
